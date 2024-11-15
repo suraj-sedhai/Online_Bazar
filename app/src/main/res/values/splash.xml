@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="App.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@drawable/blury_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_kleine_shape2</item>
+        <item name="postSplashScreenTheme">@style/Theme.OnlineBazar</item>
+    </style>
+
+</resources>

@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Curved line above letters -->
+    <path
+        android:pathData="M30,95 Q120,60 210,95"
+        android:strokeColor="#0F5AB7"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"/>
+
+    <!-- Curved line below letters -->
+    <path
+        android:pathData="M30,145 Q120,180 210,145"
+        android:strokeColor="#0F5AB7"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"/>
+
+    <!-- Bold "B" with shadow and gradient effect -->
+    <path
+        android:pathData="M47,140V110H62C67,110 70,113 70,117C70,120 68,123 65,124C70,125 73,128 73,132C73,136 69,140 62,140H47Z"
+        android:fillColor="#1877F2"/>
+    <path
+        android:pathData="M55,115H62C64,115 66,116 66,118C66,120 64,121 62,121H55V115Z"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M47,140V142H62C69,142 73,138 73,132C73,128 70,125 65,124"
+        android:fillColor="#0F5AB7"/>
+
+    <!-- Stylized "A" with drop shadow -->
+    <path
+        android:pathData="M78,140L88,110H98L108,140H100L95,122L90,140H78Z"
+        android:fillColor="#1877F2"/>
+    <path
+        android:pathData="M87,122L93,122L90,132L87,122Z"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M78,142L88,112H98L108,142H100L95,124L90,142H78Z"
+        android:fillColor="#0F5AB7"/>
+
+    <!-- Zigzag "Z" with shadow and outline -->
+    <path
+        android:pathData="M115,140V135H135L115,115V110H140V115H120L140,135V140H115Z"
+        android:fillColor="#1877F2"/>
+    <path
+        android:pathData="M120,132H135V128H120V132Z"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M115,140V142H140V135L115,115V110H140V115H120L140,135V140H115Z"
+        android:fillColor="#0F5AB7"/>
+
+    <!-- Enhanced "A" with extra shadow and depth -->
+    <path
+        android:pathData="M150,140L160,110H170L180,140H172L167,122L162,140H150Z"
+        android:fillColor="#1877F2"/>
+    <path
+        android:pathData="M159,122L165,122L162,132L159,122Z"
+        android:fillColor="#FFFFFF"/>
+    <path
+        android:pathData="M150,142L160,112H170L180,142H172L167,124L162,142H150Z"
+        android:fillColor="#0F5AB7"/>
+
+    <!-- Modern "R" with additional accent and shadow -->
+    <path
+        android:pathData="M185,140V110H200C203,110 206,113 206,117C206,121 203,124 199,124L206,140H198L193,130H185V140H185Z"
+        android:fillColor="#1877F2"/>
+    <path
+        android:pathData="M193,115H198C200,115 202,117 202,119C202,121 200,122 198,122H193V115Z"
+        android:fillColor="#FFFFFF"/>
+</vector>
