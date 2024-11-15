@@ -11,7 +11,8 @@ Steps to set up the project locally:
 - Firebase
 
 ## Screenshots
-![462545458_1093649975598201_3271859838701193395_n](https://github.com/user-attachments/assets/ce54c782-e289-49e9-b8ef-b08a9050b248)
+![462545458_10936![resized](https://github.com/user-attachments/assets/fd89561f-c31e-4e87-ad82-4c49c07b831c)
+49975598201_3271859838701193395_n](https://github.com/user-attachments/assets/ce54c782-e289-49e9-b8ef-b08a9050b248)
 ![462645920_1497874200928721_212647964261793309_n](https://github.com/user-attachments/assets/bbd6d7c9-61aa-48f9-bdf7-ca212868a979)
 ![462577838_1702449080328818_6021600962204305137_n](https://github.com/user-attachments/assets/27b7fb8c-e13e-4354-8b61-40d8e60aee16)
 ![4![462642611_625035873284436_2594369155492505698_n](https://github.com/user-attachments/assets/6c446823-d985-4eb4-bea8-75542c0f5e94)
